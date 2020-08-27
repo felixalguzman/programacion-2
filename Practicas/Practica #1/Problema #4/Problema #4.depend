@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475605634 source:c:\users\felix\documents\codeblocks projects\programacion 2\problema #4\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<cstring>
+

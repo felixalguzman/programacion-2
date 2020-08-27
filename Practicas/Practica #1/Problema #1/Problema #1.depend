@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1475691650 source:c:\users\felix\documents\codeblocks projects\programacion 2\problema #1\main.cpp
+	<iostream>
+	<cstring>
+	<cstddef>
+	<stdio.h>
+	<vector>
+	<sstream>
+

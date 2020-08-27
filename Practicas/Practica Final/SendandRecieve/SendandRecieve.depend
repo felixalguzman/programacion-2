@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480818032 source:c:\users\felix\documents\codeblocks projects\sendandrecieve\main.cpp
+	"mpi.h"
+	<iostream>
+
